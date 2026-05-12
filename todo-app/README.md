@@ -1,3 +1,70 @@
+# Todo App
+
+A simple and responsive Todo application built using React JS.
+
+Users can add, delete, and manage daily tasks efficiently.
+
+## 🚀 Features
+
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed
+- Responsive design
+- Clean UI
+
+## 🛠️ Tech Stack
+
+- React JS
+- JavaScript
+- CSS
+
+## 📚 Concepts Practiced
+
+- React Hooks
+- useState
+- Event handling
+- Conditional rendering
+- Component-based architecture
+
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone <repo-url>
+```
+
+Go to project directory:
+
+```bash
+cd todo-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the app:
+
+```bash
+npm start
+```
+
+## 📸 Screenshot
+
+(Add screenshot later)
+
+## 🔮 Future Improvements
+
+- Dark mode
+- Task filters
+
+## 👩‍💻 Author
+
+Sushmita Pagar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

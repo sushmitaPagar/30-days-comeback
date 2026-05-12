@@ -1,3 +1,67 @@
+# API Fetch App
+
+A simple React application that fetches and displays data from a public API using React Hooks.
+
+## 🚀 Features
+
+- Fetch data from external API
+- Error handling
+- Responsive UI
+- Built using React functional components
+
+## 🛠️ Tech Stack
+
+- React JS
+- JavaScript (ES6)
+- CSS
+- Fetch API
+
+## 📚 Concepts Practiced
+
+- useState
+- useEffect
+- API calls
+- Async/Await
+- Conditional rendering
+
+## ▶️ Run Locally
+
+Clone the project:
+
+```bash
+git clone <repo-url>
+```
+
+Go to project folder:
+
+```bash
+cd api-fetch-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm start
+```
+
+## 🌐 API Used
+
+JSONPlaceholder Fake API
+
+## 📸 Screenshot
+
+(Add screenshot here later)
+
+## 👩‍💻 Author
+
+Sushmita Pagar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
