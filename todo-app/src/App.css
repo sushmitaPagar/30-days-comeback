@@ -97,3 +97,19 @@ h1 {
   margin-bottom: 10px;
   border-radius: 5px;
 }
+
+.todo-item li{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.checkbox:hover {
+  cursor: pointer;
+}
+
+.action-btns {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
